@@ -1,10 +1,10 @@
-# WriteMoji
+# WritEmoji
 
-WriteMoji is a simple Chrome extension that enhances your browsing experience by automatically replacing text enclosed in double colons (`::`) with corresponding emojis. For example, `::smile::` will be replaced with 😊, adding a fun and expressive touch to your communications.
+WritEmoji is a simple Chrome extension that enhances your browsing experience by automatically replacing text enclosed in colons (`::`) with corresponding emojis. 
 
 ## Features
 
-- **Emoji Replacement:** Transforms text patterns like `::smile::` into corresponding emojis.
+- **Emoji Replacement:** Transforms text patterns into corresponding emojis.
 - **Customizable:** Easily supports a wide range of emojis.
 - **Lightweight:** Fast and efficient, with no unnecessary bloat.
 
@@ -12,7 +12,7 @@ WriteMoji is a simple Chrome extension that enhances your browsing experience by
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/writemoji.git
+   git clone https://github.com/KoolKrish18/writEmoji.git
 
 2. Navigate to the Chrome Extensions page (`chrome://extensions/`).
 3. Enable Developer Mode.
